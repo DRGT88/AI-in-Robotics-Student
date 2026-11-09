@@ -2,7 +2,7 @@
 
 **Cranfield University | Adeept robot-car reinforcement learning**
 
-**Status:** Student-facing repository in preparation. The project lead reports that six robot cars are configured and ready for supervised teaching. **Do not publish or use this repository as the final student release until the course team approves its content.**
+**Status:** Student-facing repository in preparation. The project lead reports that six robot cars are configured and ready for supervised teaching. 
 
 ## Start here
 
